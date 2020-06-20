@@ -10,9 +10,8 @@ for single_char in A:
         B = B + miwen_tar[index]
     else:
         B = B + single_char
-        print('加密后:' + B)
-else:
-    print('请输入小写英文:')
+print('加密后:' + B)
+
 
 
 C = ''
